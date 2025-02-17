@@ -1,0 +1,59 @@
+#linepertama{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button{
+    padding: 10px;
+    height: 35px;
+    width: 80px;
+    margin-right: 40px;
+    border-radius: 3px;
+    
+}
+
+.container  {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 170px;
+    margin: 0 700px 80px;
+    
+    
+}
+
+.upload{
+    border: 10px solid transparent;
+      border-radius: 999px;
+      margin-block-start: 1rem;
+      background-color: #05fa63;
+      font-family: 'Quicksand', sans-serif;
+      text-transform: uppercase;
+      font-size: 1rem;
+      font-weight: 700;
+      color: white;
+}
+
+.Scindasus{
+    border: 20px solid transparent;
+      border-radius: 999px;
+      margin-block-start: 1rem;
+      background-color: #ffffff;
+      font-family: 'Quicksand', sans-serif;
+      text-transform: uppercase;
+      font-size: 1rem;
+      font-weight: 700;
+      color: rgb(0, 255, 64);
+
+}
+
+.button2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-image {
+    width: 300px; 
+    height: auto;
+    display: block;
+    margin: 0 auto 10px; 
+}
